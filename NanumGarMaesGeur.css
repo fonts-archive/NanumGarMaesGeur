@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumGarMaesGeur';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGarMaesGeur/NanumGarMaesGeur.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGarMaesGeur/NanumGarMaesGeur.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGarMaesGeur/NanumGarMaesGeur.ttf') format('truetype');
+}
